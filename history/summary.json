@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "dk-denmark",
     "status": "up",
-    "uptime": "1.35%",
-    "uptimeDay": "1.35%",
-    "uptimeWeek": "1.35%",
-    "uptimeMonth": "1.35%",
-    "uptimeYear": "1.35%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1260,
     "timeDay": 1260,
     "timeWeek": 1260,
     "timeMonth": 1260,
     "timeYear": 1260,
-    "dailyMinutesDown": {
-      "2024-07-16": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
