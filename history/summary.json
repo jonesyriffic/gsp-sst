@@ -1,20 +1,20 @@
 [
   {
     "name": "DK - Denmark",
-    "url": "https://www.skyshowtime.com/help/dk",
+    "url": "https://www.skyshowtime.com/dk/help/",
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "dk-denmark",
-    "status": "down",
-    "uptime": "0.70%",
-    "uptimeDay": "0.70%",
-    "uptimeWeek": "0.70%",
-    "uptimeMonth": "0.70%",
-    "uptimeYear": "0.70%",
-    "time": 1288,
-    "timeDay": 1288,
-    "timeWeek": 1288,
-    "timeMonth": 1288,
-    "timeYear": 1288,
+    "status": "up",
+    "uptime": "1.35%",
+    "uptimeDay": "1.35%",
+    "uptimeWeek": "1.35%",
+    "uptimeMonth": "1.35%",
+    "uptimeYear": "1.35%",
+    "time": 1260,
+    "timeDay": 1260,
+    "timeWeek": 1260,
+    "timeMonth": 1260,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2024-07-16": 4
     }
