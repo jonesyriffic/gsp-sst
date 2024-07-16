@@ -13,13 +13,15 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GSP Customer Management Uptime
   introTitle: SkyShowtime Uptime
-  navbar:
+navbar:
     - title: EU
       href: https://jonesyriffic.github.io/gsp-eu/
     - title: Peacock
       href: https://jonesyriffic.github.io/gsp-peacock/
     - title: SST
       href: /
+    - title: SMX
+      href: https://jonesyriffic.github.io/gsp-smx/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
