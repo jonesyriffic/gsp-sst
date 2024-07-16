@@ -13,7 +13,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: GSP Customer Management Uptime
   introTitle: SkyShowtime Uptime
-navbar:
+  navbar:
     - title: EU
       href: https://jonesyriffic.github.io/gsp-eu/
     - title: Peacock
