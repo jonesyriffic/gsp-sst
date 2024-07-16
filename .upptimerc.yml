@@ -16,7 +16,7 @@ status-website:
   navbar:
     - title: EU
       href: https://jonesyriffic.github.io/gsp-eu/
-    - title: GitHub
+    - title: Peacock
       href: https://jonesyriffic.github.io/gsp-peacock/
     - title: SST
       href: /
