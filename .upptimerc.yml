@@ -3,8 +3,50 @@ owner: jonesyriffic # Your GitHub organization or username, where this repositor
 repo: gsp-sst # The name of this repository
 
 sites:
+  - name: AD - Andorra
+    url: https://www.skyshowtime.com/ad/help/
+  - name: AL - Albania
+    url: https://www.skyshowtime.com/al/help/
+  - name: BA - Bosnia and Herzegovina
+    url: https://www.skyshowtime.com/ba/help/
+  - name: BG - Bulgaria
+    url: https://www.skyshowtime.com/bg/help/
+  - name: CZ - Czechia
+    url: https://www.skyshowtime.com/cz/help/
   - name: DK - Denmark
     url: https://www.skyshowtime.com/dk/help/
+  - name: ES - Spain
+    url: https://www.skyshowtime.com/es/help/
+  - name: FI - Finland
+    url: https://www.skyshowtime.com/fi/help/
+  - name: HR - Croatia
+    url: https://www.skyshowtime.com/hr/help/
+  - name: HU - Hungary
+    url: https://www.skyshowtime.com/hu/help/
+  - name: ME - Montenegro
+    url: https://www.skyshowtime.com/me/help/
+  - name: MK - Macedonia
+    url: https://www.skyshowtime.com/mk/help/
+  - name: NL - Netherlands
+    url: https://www.skyshowtime.com/nl/help/
+  - name: NO - Norway
+    url: https://www.skyshowtime.com/no/help/
+  - name: PL - Poland
+    url: https://www.skyshowtime.com/pl/help/
+  - name: PT - Portugal
+    url: https://www.skyshowtime.com/pt/help/
+  - name: RO - Romania
+    url: https://www.skyshowtime.com/ro/help/
+  - name: RS - Serbia
+    url: https://www.skyshowtime.com/rs/help/
+  - name: SE - Sweden
+    url: https://www.skyshowtime.com/se/help/
+  - name: SI - Slovenia
+    url: https://www.skyshowtime.com/si/help/
+  - name: SK - Slovakia
+    url: https://www.skyshowtime.com/dk/help/
+  - name: XK - Kosovo
+    url: https://www.skyshowtime.com/xk/help/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
