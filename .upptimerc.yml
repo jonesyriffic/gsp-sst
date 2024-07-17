@@ -53,7 +53,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /gsp-sst
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: GSP Customer Management Uptime
+  name: GSP Help Uptime
   introTitle: SkyShowtime Uptime
   navbar:
     - title: Home
