@@ -101,7 +101,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1289,
-    "timeDay": 1226,
+    "timeDay": 1049,
     "timeWeek": 1289,
     "timeMonth": 1289,
     "timeYear": 1289,
@@ -184,18 +184,20 @@
     "url": "https://www.skyshowtime.com/me/help/",
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "me-montenegro",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 1227,
     "timeDay": 1227,
     "timeWeek": 1227,
     "timeMonth": 1227,
     "timeYear": 1227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-17": 2
+    }
   },
   {
     "name": "MK - Macedonia",
