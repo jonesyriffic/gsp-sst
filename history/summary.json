@@ -22,18 +22,20 @@
     "url": "https://www.skyshowtime.com/al/help/",
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "al-albania",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1329,
-    "timeDay": 1747,
-    "timeWeek": 1461,
-    "timeMonth": 1232,
-    "timeYear": 1329,
-    "dailyMinutesDown": {}
+    "time": 1323,
+    "timeDay": 1488,
+    "timeWeek": 1386,
+    "timeMonth": 1217,
+    "timeYear": 1323,
+    "dailyMinutesDown": {
+      "2024-10-16": 1
+    }
   },
   {
     "name": "BA - Bosnia and Herzegovina",
@@ -79,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "cz-czechia",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1459,
     "timeDay": 1250,
     "timeWeek": 1183,
     "timeMonth": 1253,
     "timeYear": 1459,
-    "dailyMinutesDown": {
-      "2024-10-16": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DK - Denmark",
@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "es-spain",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1193,
     "timeDay": 1009,
     "timeWeek": 1041,
     "timeMonth": 1156,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2024-10-16": 1
+      "2024-10-16": 10
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "me-montenegro",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 1418,
     "timeDay": 1547,
     "timeWeek": 1436,
     "timeMonth": 1401,
     "timeYear": 1418,
     "dailyMinutesDown": {
-      "2024-10-16": 19
+      "2024-10-16": 28
     }
   },
   {
@@ -248,19 +248,19 @@
     "url": "https://www.skyshowtime.com/no/help/",
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "no-norway",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1303,
-    "timeDay": 951,
-    "timeWeek": 1310,
-    "timeMonth": 1091,
-    "timeYear": 1303,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1307,
+    "timeDay": 1092,
+    "timeWeek": 1342,
+    "timeMonth": 1108,
+    "timeYear": 1307,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 10
     }
   },
   {
@@ -268,19 +268,19 @@
     "url": "https://www.skyshowtime.com/pl/help/",
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "pl-poland",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
-    "time": 1267,
-    "timeDay": 907,
-    "timeWeek": 991,
-    "timeMonth": 1155,
-    "timeYear": 1267,
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 1259,
+    "timeDay": 835,
+    "timeWeek": 948,
+    "timeMonth": 1136,
+    "timeYear": 1259,
     "dailyMinutesDown": {
-      "2024-10-16": 34
+      "2024-10-16": 25
     }
   },
   {
@@ -306,19 +306,19 @@
     "url": "https://www.skyshowtime.com/ro/help/",
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "ro-romania",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1199,
-    "timeDay": 1431,
-    "timeWeek": 1141,
-    "timeMonth": 1005,
-    "timeYear": 1199,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1200,
+    "timeDay": 1404,
+    "timeWeek": 1155,
+    "timeMonth": 1014,
+    "timeYear": 1200,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 10
     }
   },
   {
@@ -345,18 +345,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "se-sweden",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1181,
     "timeDay": 1191,
     "timeWeek": 1123,
     "timeMonth": 948,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 10
     }
   },
   {
@@ -401,18 +401,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.skyshowtime.com.ico",
     "slug": "xk-kosovo",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1293,
     "timeDay": 2538,
     "timeWeek": 1557,
     "timeMonth": 1178,
     "timeYear": 1293,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 10
     }
   }
 ]
