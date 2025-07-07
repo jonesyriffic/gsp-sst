@@ -1,7 +1,7 @@
 url: https://www.skyshowtime.com/al/help/
-status: up
-code: 200
-responseTime: 129
-lastUpdated: 2025-07-06T23:05:45.250Z
+status: down
+code: 503
+responseTime: 10757
+lastUpdated: 2025-07-07T13:14:19.233Z
 startTime: 2024-07-17T09:15:07.182Z
 generator: Upptime <https://github.com/upptime/upptime>
